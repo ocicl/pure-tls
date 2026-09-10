@@ -4,6 +4,6 @@ Pure Common Lisp TLS 1.3 implementation
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/atgreen/pure-tls.git |
-| commit  | 79230b1                                     |
+| commit  | dad1028                                     |
 | systems | pure-tls                                    |
 |---------+---------------------------------------------|
